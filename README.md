@@ -1,4 +1,9 @@
 # Admin Event Check-in
+![React](https://img.shields.io/badge/Frontend-React-%2361DAFB?logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Build-Vite-%23646CFF?logo=vite&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Style-TailwindCSS-%2338B2AC?logo=tailwindcss&logoColor=white)
+![Node.js](https://img.shields.io/badge/Backend-Node.js-339933?logo=nodedotjs&logoColor=white)
+![SQL](https://img.shields.io/badge/Database-SQL-4479A1?logo=mysql&logoColor=white)
 
 Lightweight event check-in web app (frontend + simple Node server) built with Vite, React, and Tailwind CSS. Designed to manage events, scan/record attendee check-ins, and handle a small SQLite/MySQL/Postgres database (see [database/setup.sql](admin-event-checkin/database/setup.sql)).
 
